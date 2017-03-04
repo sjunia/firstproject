@@ -1,3 +1,9 @@
 .nav-bar {
-  font-size: 25;
+    height: 300px;
+    background-color: green;
+}
+
+ul, li {
+    display: inline;
+    color: pink;
 }
